@@ -2,7 +2,7 @@
 
 This project is completely blank. Why? Because you're going to be creating a web extension from scratch. You can choose everything about building the project. Will it be 100% vanilla JS? Will you use a build tool or bundler? Everything is up to you.
 
-What are the features of the extension we're building? The extension track the user's "fish history":
+What are the features of the extension we're building? The extension tracks the user's "fish history".
 
 ### Requirements
 
