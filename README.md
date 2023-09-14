@@ -28,3 +28,5 @@ After finishing your extension, you should be able to answer the following quest
 - Firefox's official documentation: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions
 
 Good luck, have fun! That's all the information you get. Excited to see what you create!
+
+Once you've fishined, message @aaronklinker-st and he'll give you access to his solution: https://github.com/aaronklinker-st/web-extension-challenge-solution
