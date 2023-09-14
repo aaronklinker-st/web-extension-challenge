@@ -9,7 +9,6 @@ What are the features of the extension we're building? The extension tracks the 
 - [ ] ***Save every URL whose page includes the word "fish"***, along with the time it was seen at
 - [ ] ***Create a UI using Vue*** that shows the users "fish history"
 - [ ] Allow the user to ***delete fish history entries from the UI***
-- [ ] Since the user's fish history might be quite long, make sure to ***paginate the list displayed on the UI***
 - [ ] Allow the user to setup a ***blocklist of domains*** where fish history should not be tracked
 - [ ] It must work on both ***Chrome and Firefox***
 
